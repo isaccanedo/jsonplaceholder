@@ -1,4 +1,4 @@
-### JSONPlaceholder
+# JSONPlaceholder
 
 [JSONPlaceholder](https://jsonplaceholder.typicode.com) is a simple fake REST API for testing and prototyping.
 
