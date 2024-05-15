@@ -6,7 +6,7 @@ It's like an [image placeholder](http://placehold.it/) but for web developers.
 
 JSONPlaceholder is powered by [JSON Server](https://github.com/typicode/json-server).
 
-## Why?
+## Why???
 
 Most of the time when trying a new library, hacking a prototype or following a tutorial, I found myself in need of some data.
 
