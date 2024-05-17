@@ -18,7 +18,7 @@ You can find it running here and are free to use it in your developments: https:
 
 I hope you will find it useful.
 
-## Features
+### Features
 
 * No registration
 * Zero-config
