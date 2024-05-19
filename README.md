@@ -30,6 +30,6 @@ I hope you will find it useful.
 * HTTP or HTTPS
 * Compatible with React, Angular, Vue, Ember, ...
 
-## Guide
+### Guide
 
 For examples and more, you can visit https://jsonplaceholder.typicode.com
